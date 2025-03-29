@@ -1,0 +1,32 @@
+{
+  "name": "aws-cognito-federated-user-linker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "repository": "",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/.bin/jest",
+    "standard": "npx standard --fix"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-cognito-identity-provider": "^3.777.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "standard": "^17.1.2"
+  },
+  "standard": {
+    "env": [ "jest" ]
+  },
+  "jest": {
+    "moduleFileExtensions": [
+      "js",
+      "mjs"
+    ],
+    "testMatch": [
+      "**/?(*.)+(spec|test).mjs?(x)"
+    ]
+  }
+}
