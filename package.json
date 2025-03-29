@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.mjs",
-  "repository": "",
+  "repository": "https://github.com/milkchocolate/aws-cognito-federated-user-linker",
   "scripts": {
     "test": "node --experimental-vm-modules node_modules/.bin/jest",
     "standard": "npx standard --fix"

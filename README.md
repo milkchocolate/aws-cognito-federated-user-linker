@@ -1,4 +1,5 @@
 # AWS Cognito Federated User Linker
+[![Test](https://github.com/milkchocolate/aws-cognito-federated-user-linker/actions/workflows/test.yaml/badge.svg)](https://github.com/milkchocolate/aws-cognito-federated-user-linker/actions/workflows/test.yaml)
 
 ## Overview
 
