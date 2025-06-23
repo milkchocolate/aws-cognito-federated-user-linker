@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@aws-sdk/client-cognito-identity-provider": "^3.777.0"
+    "@aws-sdk/client-cognito-identity-provider": "^3.835.0"
   },
   "devDependencies": {
     "jest": "^29.7.0",
